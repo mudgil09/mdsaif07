@@ -5,9 +5,7 @@
           <div data-bb-type="panel-header">Welcome To Your App!</div>
   	  <br>
 	  <br>
-		  <center><image src="IMG/icon.png"></center>
-          <div data-bb-type="label-control-container">
-              <div data-bb-type="row">
+	<bold></bold>
                   <div data-bb-type="label">You are finally here! You have decided to create your own app...<br><br>
 		Your app can now have a welcome screen - isn't that really cool?! <br>
 	</div></div></div></div><br><br><br><br><br><br><br>
