@@ -4,7 +4,6 @@
 <div data-bb-type="round-panel"> 
           <div data-bb-type="panel-header">Welcome To Your App!</div>
   	  <br>
-	  <br>
 		  <center><image src="IMG/icon.png"></center>
           <div data-bb-type="label-control-container">
               <div data-bb-type="row">
@@ -25,7 +24,7 @@
 			<div data-bb-type="row">
 			<div data-bb-type="label">
 				<table>
-			</tr>
+			<tr>
 				<td style="margin-top:13px;">Show this page on launch</td>
 				<td ><input id="checkbox" type="checkbox" checked="true" value="one"/></td>
 			</tr>
